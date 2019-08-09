@@ -57,3 +57,40 @@ In this project we are going to be accessing the GitHub API and building a socia
 * Look into adding your GitHub contribution graph. There are a number of different ways of doing this, this Stack Overflow discussion will get you started: https://stackoverflow.com/questions/34516592/embed-github-contributions-graph-in-website
 
 Note: Just a reminder the stretch goals are just extra practice using the tools we have learned. These are not required. Only parts 1-3 are required portions of the project. If you do not get to the stretch goals, don't worry.
+
+
+
+
+                  ///////////////////////////////
+
+ avatar_url: "https://avatars0.githubusercontent.com/u/52715507?v=4"
+bio: null
+blog: ""
+company: null
+created_at: "2019-07-09T17:36:59Z"
+email: null
+events_url: "https://api.github.com/users/cvlopes88/events{/privacy}"
+followers: 0
+followers_url: "https://api.github.com/users/cvlopes88/followers"
+following: 1
+following_url: "https://api.github.com/users/cvlopes88/following{/other_user}"
+gists_url: "https://api.github.com/users/cvlopes88/gists{/gist_id}"
+gravatar_id: ""
+hireable: null
+html_url: "https://github.com/cvlopes88"
+id: 52715507
+location: null
+login: "cvlopes88"
+name: null
+node_id: "MDQ6VXNlcjUyNzE1NTA3"
+organizations_url: "https://api.github.com/users/cvlopes88/orgs"
+public_gists: 0
+public_repos: 24
+received_events_url: "https://api.github.com/users/cvlopes88/received_events"
+repos_url: "https://api.github.com/users/cvlopes88/repos"
+site_admin: false
+starred_url: "https://api.github.com/users/cvlopes88/starred{/owner}{/repo}"
+subscriptions_url: "https://api.github.com/users/cvlopes88/subscriptions"
+type: "User"
+updated_at: "2019-07-17T23:34:52Z"
+url: "https://api.github.com/users/cvlopes88"                 
